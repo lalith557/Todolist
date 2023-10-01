@@ -1,2 +1,2 @@
 # Todolist
-Todolist with HTML
+Todolist with HTML & CSS
